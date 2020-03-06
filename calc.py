@@ -1,3 +1,3 @@
-# 加法
+# 加法，有bug
 def add(x, y):
-    pass
+    return x + y + 1
