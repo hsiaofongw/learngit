@@ -1,6 +1,6 @@
-# 加法，有bug
+# 加法
 def add(x, y):
-    return x + y + 1
+    return x + y
 
 def sub(x, y):
     return x - y
